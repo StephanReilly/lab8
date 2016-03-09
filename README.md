@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
 <title>Lab 8 by Stephan Reilly - 150444130</title>
